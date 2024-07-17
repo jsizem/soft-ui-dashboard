@@ -37,18 +37,14 @@
     "url": "https://github.com/creativetimofficial/soft-ui-dashboard/issues"
   },
   "devDependencies": {
-    "gulp": "^5.0.0",
-    "gulp-autoprefixer": "^9.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
     "gulp-clean": "^0.4.0",
     "gulp-install": "^1.1.0",
-    "gulp-open": "^3.0.1",
     "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^2.6.5",
+    "gulp-open": "^3.0.1",
     "sass": "^1.49.9"
   },
-  "homepage": "http://creative-tim.com/product/soft-ui-dashboard",
-  "dependencies": {
-    "meow": "^13.2.0",
-    "trim-newlines": "^5.0.0"
-  }
+  "homepage": "http://creative-tim.com/product/soft-ui-dashboard"
 }
